@@ -25,6 +25,7 @@ def transform(template, f):
         if dc == 'title' or dc == 'byline':
           pd[dc] = r
       else:
+        c = None
         dc = 'dialog'
       
       if c:
