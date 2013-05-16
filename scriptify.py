@@ -48,8 +48,12 @@ def transform(template, f, of):
   
   for line in f:
     if line:
-      c, s, r = line.partition(' ')
-      c = c.strip()
+      if line[0] == '(':
+        c = '('
+      else:
+        c, s, r = line.partition(' ')
+        c = c.strip()
+        
       if not s:
         c = line[0]
         
@@ -57,10 +61,14 @@ def transform(template, f, of):
         ignore += 1
       elif c == ']':
         ignore -= 1
+      elif c == '#':
+        line = ''
       elif c in scd:
         dc = scd[c]
         if dc == 'title' or dc == 'byline':
           pd[dc] = r
+        if dc == 'paren':
+          c = None
       else:
         c = None
         dc = 'dialog'
