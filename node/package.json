@@ -1,0 +1,18 @@
+{
+  "name": "nodey",
+  "version": "1.0.0",
+  "description": "Skeleton node project with simple Ajax dispatcher.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body": "^5.1.0",
+    "cachemere": "^0.9.13",
+    "extend": "^3.0.0",
+    "querystring": "^0.2.0",
+    "request": "^2.72.0"
+  }
+}

@@ -1,0 +1,114 @@
+﻿[
+Legend:
+[ start ignoring
+] stop ignoring
+*** Title
+** Authorship
+* SCENE HEADING
++ Action
+> Character
+(parenthetical)
+/ TRANSITION
+# Comment
+
+
+Dialog.
+]
+
+
+*** Dogfish
+** story by Brad Wagster & Scott Means
+** script by Scott Means
+
+
+* INT. DINER - NIGHT
++ An almost empty coffee cup sits on the counter, surrounded by an improbable number of sugar packets. The remains of bacon and eggs, clearly consumed some time ago, dry slowly next to it. DORIS approaches on autopilot with the coffee pot, then hesitates.
+> DORIS
+More coffee?
++ PATTON looks up from the cup, startled. He’s wearing good quality clothes that haven’t seen the inside of a washer for a while. He’s not in high school, but he could still go to prom without standing out.
+> PATTON
+Yes, please.
++ The diner is nearly deserted, but an overweight man in a rumpled suit is nursing his own cup of coffee at the other end of the counter. Patton starts making his coffee-sugar soup.
+> DORIS
+We’re closing soon, you want to settle up your bill now?
+> PATTON
+Um, just give me a second. I, I hafta go to the bathroom.
++ He bolts from his seat into the restroom, leaning against the door. He pulls his wallet from his pocket, verifying for the 100th time that there is no money in it. There is a KNOCK on the door.
+> DORIS
+Look, you’ve been here for hours. Finish your business and get out here!
++ Patton goes to the sink and looks at himself. He clearly isn’t very impressed with what he sees. He flushes the toilet, splashes water on his face, then steps out of the bathroom right into Doris, who is blocking the road. The overweight man has taken a slight interest in the proceedings. Doris pointedly rips a check off her pad and hands it to Patton while guarding his exit from the restaurant like Magic Johnson.
+> PATTON
+I...
++ Doris is like a chess grandmaster compared to Patton. His eyes start to dart, looking for an opening.
+> MAN
+Hey, Doris! I’ll take care of it.
++ Patton finally notices HERB, which is interesting because he would normally be very noticeable. He’s a man of huge and questionable appetites, masked by a practiced charm.
+> DORIS
+You sure, Herb?
+> HERB
+Yeah! I think me and ... what’s your name son?
+> PATTON
+Patton.
+> HERB
+Me and Patton here have a little business to talk. This is what you call a business expense. Come over here and sit down for a second.
++ Doris relents, and Patton walks to the counter and joins Herb, obvious relieved that someone else is now in charge.
+> HERB
+Listen here - Patton. It is Patton, right? Listen. I clocked you the minute I walked into this place. You’re on your own, ain’t you? But, and don’t take this the wrong way, you’re not very good at it. Bet it isn’t by choice, is it?
+> PATTON
+My father...
+> HERB
+Yep, your father, your mother, whatever. I’ve heard this story hundreds a times. But that’s good news, for you. How would you like a job, room and board, a little folding money for your pocket?
+> PATTON
+That would be great, but I don’t really know how to do...
+> HERB
+Not a problem, old Herb’ll take care of you. Here.
++ Herb pulls out a card and writes something on the back. He hands it to Patton. The front reads Herb Schmitt, Sales Manager, World Wide Publications 803.555.7879. No address. He flips it over, the back reads 10:00, Dixie Lanes, Cotton Street.
+> HERB
+Be there on time.
++ He gets up and turns to leave. He laboriously pulls out a large roll of folding money and drops some on the counter. He hesitates, then counts off a couple more bills. He turns to Patton.
+> HERB
+Take this and get yourself some clean clothes to wear. And a tie. We’re a professional outfit, you gotta look professional.
++ Without another word he turns and ambles out of the restaurant.
+* EXT. BUS STATION - NIGHT
++ Patton is curled uncomfortably on a bench. An obviously HOMELESS MAN ambles up to the bench and looms over Patton. Patton looks up but makes no move. The homeless man then simply grabs Patton by the arm and pulls him onto the pavement. He then steps over him and takes Patton’s place.
+> HOMELESS MAN
+Nice and warm. Thanks chickie.
++ Patton stands up, stares at the man for a moment, then walks off to lean against the none-too-clean wall.
+* INT. BOWLING ALLEY - MORNING
++ Patton steps into the dim space, his eyes squinting to adjust. The counter is deserted. The entire place is deserted except for a tiny, bright island of activity on one lane. Patton approaches the group. He’s wearing new clothes, but obviously hasn’t bathed. His hair is particularly unruly. Herb is standing motionless on his mark, cradling his ball thoughtfully. Slouching disinterestedly in the dugout, WALLACE chews a toothpick with half-closed eyes. His hair looks like it has enough grease to fry a chicken, but his white shirt is spotless. He’s young, but compared to Patton is a man of the world. Patton approaches the tableaux uncertainly.
+> PATTON
+I’m here...
++ Herb visibly stiffens, but makes no move to turn around. The moment lengthens awkwardly.
+> PATTON
+You said be here at 10 o’clock, so...
++ Herb is frozen, like a statue. Wallace stirs and looks Patton up-and-down. He sighs. He stands up and grabs Patton firmly by the elbow.
+> WALLACE
+C’mon kid, let’s grab a coke-cola.
++ They turn away from Herb, who is still standing motionlessly, ball in hand. Wallace guides them to the snack bar.
+> PATTON
+What did I do?
++ They reach the snack bar, and Wallace reaches behind the counter to pour them both sodas. There’s still no sign of an employee. For all we know, it could be the end of the world. They sit down with their drinks.
+> WALLACE
+Herb don’t like any talk when he’s rollin’. Particularly before he’s finished his first pitcher. Why you think we meet here? Place serves beer 24/7. You want to stay in his outfit, you learn to read him like a sailor reads the sea. Name’s Wallace.
++ Wallace profs his hand for an overly-formal handshake, which Patton finally performs.
+> WALLACE
+Gotta work on that handshake kid, it’s like a dead catfish.
+> PATTON
+I’m new at this... whatever this is.
+> WALLACE
+No, really?
++ Patton is about to answer when he realizes he’s being played.
+> WALLACE
+It’s ok, when I started I was greener than Kermit-the-frog’s dick. But if you learn fast, there’s some money to be made. And I’ve never had to sleep rough since I joined up with Herb. We’re in the sales game. Magazines.
++ Wallace’s demeanour changes instantly, as if a switch had been flipped.
+> WALLACE
+The world is changing so rapidly, it’s almost impossible to stay abreast of the latest developments in science, politics, the arts. World Wide Publications carries only the finest possible periodicals, making it simple for you and your family to keep up with critical advancements and current events. For pennies a day, you and your family will be able to educate and entertain yourselves from the comfort of your own home...
+> HERB (O.S.)
+Hey!
+> WALLACE
+Guess we’re hittin’ the road, catfish.
++ Wallace pulls out a comb and runs it through his already-perfect hair.
+> PATTON
+My name’s Patton.
+> WALLACE
+Check. You got a comb or something? You look like you French-kissed an electric fence.
