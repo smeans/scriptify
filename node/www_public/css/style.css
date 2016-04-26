@@ -7,7 +7,7 @@ html {
   font-family: courier-prime, monospace;
   font-size: 12pt;
   padding: 0;
-  margin: 0;
+  margin: 2em;
   background-color: #fefefe;
   width: 8.5in;
 }
@@ -18,4 +18,10 @@ label {
 
 input {
   width: 45em;
+}
+
+footer {
+  position: fixed;
+  left: 2em;
+  bottom: 2em;
 }
