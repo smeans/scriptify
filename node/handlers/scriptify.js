@@ -104,7 +104,6 @@ exports.handle404 = function (req, res) {
   if ('source' in url.query && auc[1] == 'format') {
     if (auc[2] in templates) {
       request(url.query.source, function (e, r, b) {
-        console.log(r);
         var p = templates[auc[2]];
 
         if (r.statusCode == 200) {

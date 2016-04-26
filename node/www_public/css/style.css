@@ -1,3 +1,21 @@
-/*
- * global site styles
- */
+@font-face {
+  font-family: courier-prime;
+  src: url('/fonts/Courier_Prime.ttf');
+}
+
+html {
+  font-family: courier-prime, monospace;
+  font-size: 12pt;
+  padding: 0;
+  margin: 0;
+  background-color: #fefefe;
+  width: 8.5in;
+}
+
+label {
+  font-weight: bold;
+}
+
+input {
+  width: 45em;
+}

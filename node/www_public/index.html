@@ -16,6 +16,15 @@
 </head>
 
 <body>
+  <h1>scriptify</h1>
+  <p>This site will format a screenplay or script written using the <a href="https://github.com/smeans/scriptify">scriptify markdown
+    language</a> into standard screenplay format. It is primarily meant to be used with
+    Google docs for collaborative authoring. The resulting screenplays will not adhere
+    completely to industry-standard formatting, but then again it is completely free.</p>
+  <form method="GET" action="/format/default.html">
+    <p><label>URL to your script</label><input type="text" name="source"/></p>
+    <p><button type="submit">format!</button></p>
+  </form>
   <script src="js/main.js"></script>
 </body>
 </html>
